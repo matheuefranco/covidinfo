@@ -18,7 +18,7 @@ export default function App() {
   }, []);
   return (
     <div className="container">
-      <h2>Dados da API</h2>
+      <h3>Informações sobre COVID-19</h3>
       <table className="table">
         <thead>
           <tr>
